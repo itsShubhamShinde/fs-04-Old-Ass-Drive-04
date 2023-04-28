@@ -1,0 +1,19 @@
+.Comp1OuterDiv{
+    height: 50vh;
+    width: 100%;
+    background-color:#19325b;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Comp1OuterDiv h1{
+    font-size: 3rem;
+}
+.Comp1OuterDiv button{
+    padding: 0.5rem 1rem;
+    background-color: #2a853f;
+    border: none;
+    color: white;
+}
